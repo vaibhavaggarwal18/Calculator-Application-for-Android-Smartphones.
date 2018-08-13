@@ -1,1 +1,1 @@
-# Calculator-Application-for-Android-Smartphones.
+# Calculator-Application-for-Android-Smartphones
